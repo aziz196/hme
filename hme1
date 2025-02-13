@@ -192,10 +192,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="NASIONAL",JOWO CHANNEL
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="NASIONAL",JOWO CHANNEL TRV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+#EXTVLCOPT:http-referrer=http://cubmu.com
+https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-OJ3qMllNHNX3wCbo0WxiepPO0CjKqyCX2loEGczbrNpeMgLh5BIv9IteaMyvWiRXpsNDa9JqymWxpF1TAwHOFumZNObXx0ivbuIyNum4ZsLIzOwVy-9gad8EZYx-V9t8aiWAs9EAjUhzb2lUq78A0wHAhv7-vzMZYjnzoxqlq_CRkNJ5TnSCWXAO68Ad/s700/CITRA%20ENTERTAINMENT.png" group-title="NASIONAL",CITRA ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1755,9 +1757,11 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5D0jkqDuOlSu-Dh-5B8s4Nc22EhRfBl5raXETjm4aep0ONdFG03uNXkmRwDu2yGPR5TjJ9NGUuplGo1KPBMKJINnBlcC-a0kFQpoF3SOnLmrhkTfbLYKMeuW50xe691Pt3dZdYt1QJBvJk67HSj4X_pwN2cjyviL0sw2rng1I4rN0ug1Gmfq6-vLIV_f/s700/JOWO%20CANNEL.png" group-title="DAERAH",JOWO CHANNEL
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+#EXTVLCOPT:http-referrer=http://cubmu.com
+https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhKnblUwnmtlvIr8-cLV1uBtuHEw5cUKB_Guw67OwKD8bIm6efIXyBsgwWZ-nw77c5qMVMcJtWT4Jv9CC_4HFWY7Cof-Lup9E_tOUbf3EGdNGzfF1-T4cz_EUjC5TI16GbzUvG2PkZFwhfXQEL3-kXmOyRGUiGNX9SOsTo2I1dM8RHr025abYkhbF2Mqhq/s700/JTV.png" group-title="DAERAH",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
